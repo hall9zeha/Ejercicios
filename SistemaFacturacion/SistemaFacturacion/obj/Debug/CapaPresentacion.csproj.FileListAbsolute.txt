@@ -1,0 +1,16 @@
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Producto.resources
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe.config
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.pdb
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\bin\Debug\CapaEntidad.dll
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\bin\Debug\CapaNegocio.dll
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\bin\Debug\CapaDatos.dll
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\bin\Debug\CapaEntidad.pdb
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\bin\Debug\CapaNegocio.pdb
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\bin\Debug\CapaDatos.pdb
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.exe
+E:\LEARNING CURSO C#\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.pdb

@@ -1,0 +1,18 @@
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaDatos\bin\Debug\CapaDatos.dll
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaDatos\bin\Debug\CapaEntidad.dll
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaDatos\bin\Debug\CapaEntidad.pdb
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaDatos\obj\Debug\CapaDatos.dll
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaDatos\bin\Debug\CapaDatos.dll
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaDatos\bin\Debug\CapaEntidad.dll
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaDatos\bin\Debug\CapaEntidad.pdb
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaDatos\obj\Debug\CapaDatos.dll
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaDatos\obj\Debug\CapaDatos.pdb

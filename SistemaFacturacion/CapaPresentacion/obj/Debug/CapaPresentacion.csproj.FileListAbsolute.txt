@@ -1,0 +1,41 @@
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaEntidad.dll
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaNegocio.dll
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.BuscarInventario.resources
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.DetalleProducto.resources
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaEntidad.dll
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaNegocio.dll
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.BuscarInventario.resources
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.DetalleProducto.resources
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.DetalleBusquedaProd.resources
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources

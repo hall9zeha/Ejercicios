@@ -1,0 +1,12 @@
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\LEARNING CURSO C#\SistemaFacturacion\CapaEntidad\obj\Debug\CapaEntidad.pdb
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\LEARNING_CURSO_C#\SistemaFacturacion\CapaEntidad\obj\Debug\CapaEntidad.pdb
