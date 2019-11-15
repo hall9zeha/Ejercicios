@@ -18,7 +18,9 @@ namespace CapaDatos
 
         SqlConnection cn = Conexion.Instancia.Conectar();
         //prueba de usuario
-
+        private static readonly DUsuario _instancia1 = new DUsuario();
+        public static DUsuario Instancia1
+        { get { return DUsuario.Instancia1; } }
         //prueba de usuario
 
         public int RegistrarUsuario(String cadXml)
