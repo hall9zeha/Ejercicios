@@ -14,7 +14,8 @@ namespace CapaPresentacion
         StringBuilder linea = new StringBuilder();
         int maxCar = 40, cortar;
         //
-        
+      
+
         //
         public string LineasGuion()
         {
