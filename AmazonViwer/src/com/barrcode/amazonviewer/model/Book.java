@@ -1,70 +1,69 @@
 package com.barrcode.amazonviewer.model;
 import java.util.*;
-public class Book {
+public class Book extends Publication implements IVisualizable {
 	private int id;
-	private String title;
-	private Date editionDate;
-	private String editorial;
-	private String[] autors;
 	private String isbn;
 	private boolean readed;
 	private int timeReaded;
-	public Book(String title, Date editionDate, String editorial, String isbn) {
-		super();
-		this.title = title;
-		this.editionDate = editionDate;
-		this.editorial = editorial;
-		this.isbn = isbn;
+	
+	public Book(String title, Date editionDate, String editorial)
+	{
+		super(title, editionDate, editorial);
 	}
-	public int getId() {
-		return id;
-	}
-	public void setId(int id) {
-		this.id = id;
-	}
-	public String getTitle() {
-		return title;
-	}
-	public void setTitle(String title) {
-		this.title = title;
-	}
-	public Date getEditionDate() {
-		return editionDate;
-	}
-	public void setEditionDate(Date editionDate) {
-		this.editionDate = editionDate;
-	}
-	public String getEditorial() {
-		return editorial;
-	}
-	public void setEditorial(String editorial) {
-		this.editorial = editorial;
-	}
-	public String[] getAutors() {
-		return autors;
-	}
-	public void setAutors(String[] autors) {
-		this.autors = autors;
-	}
-	public String getIsbn() {
+	
+	public String getIsbn()
+	{
 		return isbn;
 	}
-	public void setIsbn(String isbn) {
-		this.isbn = isbn;
+	public void setIsbn(String isbn)
+	{
+		this.isbn=isbn;
 	}
-	public boolean isReaded() {
+	public boolean getReaded()
+	{
 		return readed;
 	}
-	public void setReaded(boolean readed) {
-		this.readed = readed;
+	public void setReaded(boolean readed)
+	{
+		this.readed=readed;
 	}
-	public int getTimeReaded() {
+	public int getTimeReaded()
+	{
 		return timeReaded;
 	}
-	public void setTimeReaded(int timeReaded) {
-		this.timeReaded = timeReaded;
+	public void setTimeReaded(int timeReaded)
+	{
+		this.timeReaded=timeReaded;
 	}
 	
-	
+	public String toString()
+	{
+		String detailBook= "\n :: Book :: " +
+							"\n Title: " + getTitle() +
+							"\n Editorial: " + getEditorial() +
+							"\n EditionDate: " + getEditionDate() +
+							"\n Authors:";
+		
+		for(int i=0; i<getAuthors().length; i++)
+		{
+			detailBook += "\t " + getAuthors()[i] ;
+		}
+		return detailBook;
+	}
+	public Date startToSee(Date dateI)
+	{
+		return dateI;
+	}
+	public void stopToSee(Date dateI, Date dateF)
+	{
+		if(dateF.getSeconds()>dateI.getSeconds())
+		{
+			setTimeReaded(dateF.getSeconds()- dateI.getSeconds());
+		}
+		else
+		{
+			setTimeReaded(0);
+		}
+	}
 
 }

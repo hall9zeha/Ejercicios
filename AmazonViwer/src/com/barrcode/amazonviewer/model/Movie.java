@@ -1,6 +1,6 @@
 package com.barrcode.amazonviewer.model;
-
-public class Movie extends Film {
+import java.util.*;
+public class Movie extends Film implements IVisualizable {
 	public int id ;
 	public int timeViewed;
 public Movie(String title, String genre, String creator, int duration, short year)
@@ -57,5 +57,29 @@ public Movie(String title, String genre, String creator, int duration, short yea
 				"\n Year: "+ getYear();
 	}
 	
-
+	public Date startToSee(Date dateI)
+	{
+		
+		return dateI;
+	}
+	public void stopToSee(Date dateI, Date dateF)
+	{
+		if(dateF.getSeconds()>dateI.getSeconds())
+		{
+			setTimeViewed(dateF.getSeconds() - dateI.getSeconds());
+		}
+		else
+		{
+			setTimeViewed(0);
+		}
+	}
+	public static ArrayList<Movie> makeMovieList()
+	{
+		ArrayList<Movie> movies= new ArrayList<Movie>();
+		for(int i=0; i<=5;i++)
+		{
+			movies.add(new Movie("Alita " +i ,"Genero " + i, "Creador " + i, 120, (short)2019 ));
+		}
+		return movies;
+	}
 }

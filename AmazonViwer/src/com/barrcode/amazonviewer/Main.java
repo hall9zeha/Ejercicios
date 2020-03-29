@@ -1,5 +1,6 @@
 package com.barrcode.amazonviewer;
 
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.Scanner;
 
@@ -9,12 +10,12 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		//showMenu();
+		showMenu();
 		
-		Movie movie= new Movie("Alita battle angel", "Fiction", "J. Cameron", 120, (short)2019);
+		//Movie movie= new Movie("Alita battle angel", "Fiction", "J. Cameron", 120, (short)2019);
 		//movie.showData();
 		//cada vez que imprimimos el objeto movie nos imprimira el método toString sobreescrito por nosotros
-		System.out.println(movie);
+		//System.out.println(movie);
 	}
 	public static void showMenu()
 	{
@@ -108,9 +109,14 @@ public class Main {
 	private static void showMovies() {
 		// TODO Auto-generated method stub
 		int exit=0;
+		ArrayList<Movie> movies=Movie.makeMovieList();
 		do {
 			System.out.println("");
 			System.out.println("::Movies::");
+			for(int i=0; i<movies.size(); i++)
+			{
+			System.out.println(i +1 + "." +"Titulo: "+  movies.get(i).getTitle() + "\t" + "Genero: "+ movies.get(i).getGenre() + "\t" +  movies.get(i).getYear() + "\t" + "Visto: "+ movies.get(i).getViewed());	
+			}
 		}
 		while(exit!=0);
 		
