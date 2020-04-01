@@ -77,4 +77,8 @@ public class Film {
 	{
 		this.viewed=viewed;
 	}
+	public boolean getIsViewed()
+	{
+		return viewed;
+	}
 }

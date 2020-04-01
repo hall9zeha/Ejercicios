@@ -64,9 +64,9 @@ public Movie(String title, String genre, String creator, int duration, short yea
 	}
 	public void stopToSee(Date dateI, Date dateF)
 	{
-		if(dateF.getSeconds()>dateI.getSeconds())
+		if(dateF.getTime()>dateI.getTime())
 		{
-			setTimeViewed(dateF.getSeconds() - dateI.getSeconds());
+			setTimeViewed((int)(dateF.getTime() - dateI.getTime()));
 		}
 		else
 		{

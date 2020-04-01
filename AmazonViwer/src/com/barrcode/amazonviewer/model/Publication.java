@@ -4,12 +4,12 @@ public class Publication {
 	
 	private int id;
 	private String title;
-	private Date editionDate ;
+	private short editionDate ;
 	private String editorial;
 	private String[] authors;
 	
 	
-	public Publication(String title, Date editionDate, String editorial) {
+	public Publication(String title, short editionDate, String editorial) {
 		this.title=title;
 		this.editionDate=editionDate;
 		this.editorial=editorial;
@@ -24,11 +24,11 @@ public class Publication {
 	{
 		this.title=title;
 	}
-	public Date getEditionDate()
+	public short getEditionDate()
 	{
 		return editionDate;
 	}
-	public void setEditionDate(Date editionDate)
+	public void setEditionDate(short editionDate)
 	{
 		this.editionDate=editionDate;
 	}

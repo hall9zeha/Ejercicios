@@ -3,7 +3,7 @@ import java.util.*;
 public class Magazine extends Publication{
 
 	private int id;
-	public Magazine(String title, Date editionDate, String editorial )
+	public Magazine(String title, short editionDate, String editorial )
 	{
 		super(title, editionDate, editorial);
 	}
