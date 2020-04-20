@@ -1,0 +1,14 @@
+
+ Title: Coco
+ Genre: Animación
+ Creator: Pixart
+ Duration: 120
+ Year: 2017
+ DateView: null
+
+ Title: Titanic
+ Genre: Drama
+ Creator: James Cameron
+ Duration: 195
+ Year: 1997
+ DateView: null

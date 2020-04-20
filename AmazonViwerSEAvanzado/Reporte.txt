@@ -1,0 +1,35 @@
+
+ Title: Coco
+ Genre: Animación
+ Creator: Pixart
+ Duration: 120
+ Year: 2017
+ DateView: 87
+
+ Title: Titanic
+ Genre: Drama
+ Creator: James Cameron
+ Duration: 195
+ Year: 1997
+ DateView: 87
+
+ Title: Avatar
+ Genre: Ficción
+ Creator: James Cameron
+ Duration: 161
+ Year: 2009
+ DateView: 0
+
+ Title: Amélie
+ Genre: Romance
+ Creator: Jean-Pierre Jeunet
+ Duration: 123
+ Year: 2001
+ DateView: 0
+
+ Title: Sombra del Agua
+ Genre: Drama-Fantasía
+ Creator: Guillermo del Toro
+ Duration: 123
+ Year: 2017
+ DateView: 0

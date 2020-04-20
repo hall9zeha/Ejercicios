@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.barrcode.amazonviewer"},{"l":"com.barrcode.amazonviewer.model"}]

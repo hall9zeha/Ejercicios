@@ -1,0 +1,7 @@
+
+ Title: Amélie
+ Genre: Romance
+ Creator: Jean-Pierre Jeunet
+ Duration: 123
+ Year: 2001
+ DateView: null

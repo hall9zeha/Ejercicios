@@ -1,0 +1,7 @@
+
+ Title: Titanic
+ Genre: Drama
+ Creator: James Cameron
+ Duration: 195
+ Year: 1997
+ DateView: null
