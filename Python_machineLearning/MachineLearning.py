@@ -272,3 +272,4 @@ def compuertasLogicas():
         print("     ",lstA[iterador],"   ",lstB[iterador],"    ", lstOUT[iterador])
         iterador+=1
       
+##prueba de commit desde raspbian
